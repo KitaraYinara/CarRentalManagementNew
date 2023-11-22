@@ -1,0 +1,11 @@
+C:\Users\yinki\source\repos\CarRentalManagement\CarRentalManagement\Shared\bin\Debug\net7.0\CarRentalManagement.Shared.deps.json
+C:\Users\yinki\source\repos\CarRentalManagement\CarRentalManagement\Shared\bin\Debug\net7.0\CarRentalManagement.Shared.dll
+C:\Users\yinki\source\repos\CarRentalManagement\CarRentalManagement\Shared\bin\Debug\net7.0\CarRentalManagement.Shared.pdb
+C:\Users\yinki\source\repos\CarRentalManagement\CarRentalManagement\Shared\obj\Debug\net7.0\CarRentalManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yinki\source\repos\CarRentalManagement\CarRentalManagement\Shared\obj\Debug\net7.0\CarRentalManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\yinki\source\repos\CarRentalManagement\CarRentalManagement\Shared\obj\Debug\net7.0\CarRentalManagement.Shared.AssemblyInfo.cs
+C:\Users\yinki\source\repos\CarRentalManagement\CarRentalManagement\Shared\obj\Debug\net7.0\CarRentalManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\yinki\source\repos\CarRentalManagement\CarRentalManagement\Shared\obj\Debug\net7.0\CarRentalManagement.Shared.dll
+C:\Users\yinki\source\repos\CarRentalManagement\CarRentalManagement\Shared\obj\Debug\net7.0\refint\CarRentalManagement.Shared.dll
+C:\Users\yinki\source\repos\CarRentalManagement\CarRentalManagement\Shared\obj\Debug\net7.0\CarRentalManagement.Shared.pdb
+C:\Users\yinki\source\repos\CarRentalManagement\CarRentalManagement\Shared\obj\Debug\net7.0\ref\CarRentalManagement.Shared.dll
