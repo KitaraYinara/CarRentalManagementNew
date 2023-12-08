@@ -202,14 +202,14 @@
       "netstandard.dll": "sha256-TztlSRjADgiEABbiAMdWZpHrUVd8wnRtQRAvlwmRP\/4=",
       "System.Private.CoreLib.dll": "sha256-BAhrZ8Zg3cJKQipxdzqQo+9jtPkOkRx1ou3oIhDohtk=",
       "CarRentalManagement.Shared.dll": "sha256-rRp16nMCQnRk6EFU1y91LKBLeb\/PnLNG7GAMYUpVqDQ=",
-      "CarRentalManagement.Client.dll": "sha256-QrC74UOB9KEaSgwhO8hu9WtUOHcpGFb4dvjb9IaxDvI="
+      "CarRentalManagement.Client.dll": "sha256-uplePLErZxMvVNEAW4FN7ICdS6bMwUzfuImnR\/ErwMI="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "CarRentalManagement.Shared.pdb": "sha256-IJsEAG3F\/qa3FeRKn11YJdAzqpY9oeF50RIFNMSHJ8U=",
-      "CarRentalManagement.Client.pdb": "sha256-Mx5NgMZljvFGh1jalcPkquBvKYRBhMG+6Z89ziZMbq0="
+      "CarRentalManagement.Client.pdb": "sha256-0wmhSLhZNJK2XeZVl0NmIx6Pt5LVnBKNaJSwge2kuIE="
     },
     "runtime": {
       "dotnet.7.0.14.1foo7nzje3.js": "sha256-YWGUknGRzP\/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",

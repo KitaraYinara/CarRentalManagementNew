@@ -28,8 +28,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/yinki/source/repos/CarRentalManagement/CarRentalManagement/Client/Pages/Bookings/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yinki/source/repos/CarRentalManagement/CarRentalManagement/Client/Pages/Colours/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29sb3Vyc1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/yinki/source/repos/CarRentalManagement/CarRentalManagement/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yinki/source/repos/CarRentalManagement/CarRentalManagement/Client/Pages/Customers/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEluZGV4LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/yinki/source/repos/CarRentalManagement/CarRentalManagement/Client/Pages/FetchData.razor]
@@ -40,8 +52,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/yinki/source/repos/CarRentalManagement/CarRentalManagement/Client/Pages/Makes/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFrZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yinki/source/repos/CarRentalManagement/CarRentalManagement/Client/Pages/Models/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/yinki/source/repos/CarRentalManagement/CarRentalManagement/Client/Pages/SamplePage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FtcGxlUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yinki/source/repos/CarRentalManagement/CarRentalManagement/Client/Pages/Vehicles/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWNsZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/yinki/source/repos/CarRentalManagement/CarRentalManagement/Client/Shared/LoginDisplay.razor]
